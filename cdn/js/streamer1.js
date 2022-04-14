@@ -1,5 +1,4 @@
-/** 静止彩色丝带 **/
-/*jshint -W030 */
+/** 静态彩带 **/
 ! function() {
   function attr(node, attr, default_value) {
     return Number(node.getAttribute(attr)) || default_value;

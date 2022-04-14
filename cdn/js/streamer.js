@@ -1,4 +1,4 @@
-//动态彩带
+/** 动态彩带 **/
 (function (name, factory) {
     if (typeof window === "object") {
         window[name] = factory()
