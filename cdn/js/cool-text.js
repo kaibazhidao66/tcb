@@ -1,4 +1,4 @@
-// 炫酷文本
+/** 炫彩文本 **/
 var binft = function (r) {
 function t() {
     return b[Math.floor(Math.random() * b.length)]

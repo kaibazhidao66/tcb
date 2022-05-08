@@ -1,3 +1,4 @@
+/** 星空背景 **/
 var canvas;
 var stars_count;
 var stars;

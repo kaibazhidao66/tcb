@@ -1,4 +1,4 @@
-// 音乐曲调
+/** 音乐曲调 **/
 window.AudioContext = window.AudioContext || window.webkitAudioContext;
 (function () {
     if (!window.AudioContext) {
