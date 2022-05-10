@@ -1,6 +1,6 @@
 var stop, staticx;
 var img = new Image();
-img.src = "https://xn--e1t46na.xn--6qq986b3xl/usr/plugins/WenYu/assets/js/gyezi/images/002.png";
+img.src = "";
 
 // 樱花数量
 var sakuraNum = 20;
