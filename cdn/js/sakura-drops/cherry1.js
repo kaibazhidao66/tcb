@@ -1,6 +1,6 @@
 var stop, staticx;
 var img = new Image();
-img.src = "";
+img.src = "https://cdn.jsdelivr.net/gh/kaibazhidao66/tcb/blog/img/magical/01.png";
 
 // 樱花数量
 var sakuraNum = 20;
