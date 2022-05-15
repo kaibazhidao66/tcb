@@ -1,3 +1,4 @@
+/** 点击撒花 **/
 class Circle {
     constructor({
         origin,
